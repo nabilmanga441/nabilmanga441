@@ -1,6 +1,7 @@
 🏢I'am a student in the Faculty of Computer Science, New Cairo Academy, Department of Computer Science.
 
 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+
 ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
